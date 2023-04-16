@@ -1,0 +1,6 @@
+accuracy
+	training         	 (min:    0.838, max:    0.939, cur:    0.936)
+	validation       	 (min:    0.269, max:    0.934, cur:    0.932)
+Loss
+	training         	 (min:    0.148, max:    0.364, cur:    0.155)
+	validation       	 (min:    0.165, max:   39.798, cur:    0.171)
