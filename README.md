@@ -8,3 +8,5 @@ architectures and trained and evaluated them on the COCO dataset.
 architectures and trained and evaluated them on the COCO dataset.
 
 - `Result/`: The directory consists of the results of the experiments.
+
+- `CSC413_Final_Project.pdf`: The Final Report explaining our research, experiments and findings. 
